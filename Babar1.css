@@ -1,0 +1,88 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.banner-container {
+    background-color: lightskyblue;
+}
+
+.banner-column {
+    background-color: lightgray;
+}
+
+.navbar-container {
+    background-color: lightcoral;
+    font-weight: bold;
+    padding: 20px;
+    position: sticky;
+    top: 0;
+    z-index: 2;
+}
+
+.about-container {
+    background-color: aquamarine;
+}
+
+.ptag {
+    font-size: 25px;
+}
+
+.education-container {
+    background-color: lightpink;
+}
+
+.family-container {
+    background-color: lightseagreen;
+}
+
+.familybab {
+    font-size: 50px;
+    border: 3px solid black;
+    text-align: center;
+    display: inline-block;
+    background-color: lightgoldenrodyellow;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 20px;
+}
+
+.Internationalbab{
+    background-color: lightpink;
+    text-align: center;
+    font-size: 50px;
+    border: 3px solid black;
+    margin-bottom: 30px;
+    padding: 20px;
+}
+
+.international-container{
+    background-color: lightskyblue;
+}
+
+.gallery-container{
+    background-color: lightgray;
+}
+
+#gallerybab{
+    background-color: lightblue;
+    text-align: center;
+    font-size: 50px;
+    border: 3px solid black;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 20px;
+}
+
+.footer-container{
+    background-color: lightcoral;
+}
+
+.circle{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    font-size: 50px;
+    text-align: center;
+}
+
